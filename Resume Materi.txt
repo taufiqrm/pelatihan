@@ -1,0 +1,14 @@
+*Resume Materi*
+
+Git adalah salah satu version control system populer yang dignakan para developer untuk mengembangkan software secara besama-sama
+
+
+Dalam rangka menjalankan efektifita GIT, ada beberapa tahapan yang perlu dilakukan
+1. Git Instal
+2. Setting Up
+3. Saving Changes
+4. Inspescting Respository
+5. Synching
+6. Braches
+7. Pull Request
+8. Workflow Collaboration
