@@ -1,0 +1,17 @@
+*Resume Algorithm*
+
+- Algorithm adlah sebuah proses komputasi yang di definiskan dengan baik yang biasanya mengambil nilai sebagai input dan menghasilkan nilai sebagai output
+
+3 Karakteristik Algorithm 
+1. Memiliki batas  (awal -akhir)
+2. Instruksi terdefinisikan dengan baik
+3. Efektif dan efeisien
+
+Konsep Dasar Algorithm 
+1. Squential
+2. Branching
+3. Looping
+
+Beberapa cara merepresentasikan Algorithm 
+1. Flowchart
+2. Pseudo code
